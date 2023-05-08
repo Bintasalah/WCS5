@@ -1,3 +1,3 @@
 Remote
-fatou 
+local
 mariam 
