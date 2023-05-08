@@ -1,3 +1,3 @@
-Binta 
+Remote
 fatou 
 mariam 
